@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMSSending", "SMSSending.csproj", "{1ACCEA93-FBC8-4004-B96A-B0A25ABA80D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ACCEA93-FBC8-4004-B96A-B0A25ABA80D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ACCEA93-FBC8-4004-B96A-B0A25ABA80D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ACCEA93-FBC8-4004-B96A-B0A25ABA80D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ACCEA93-FBC8-4004-B96A-B0A25ABA80D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4138C81-3583-4445-BA18-4D46440649BB}
+	EndGlobalSection
+EndGlobal
